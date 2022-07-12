@@ -1,0 +1,6 @@
+nav {
+  background-color: #ca8a04;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
